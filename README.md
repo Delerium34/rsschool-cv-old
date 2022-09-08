@@ -1,1 +1,1 @@
-https://github.com/Delerium34/rsschool-cv.git
+https://Delerium34.github.io/rsschool-cv/cv
