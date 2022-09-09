@@ -7,7 +7,7 @@
 ---
 ## About me
 I am 25. Graduated from Gomel State Technical University named after Sukhoi. I work as an energy engineer. I want to learn new programming languages.
----
+ ---
 ## Skills
 * HTML
 ---
